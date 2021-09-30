@@ -12,3 +12,4 @@ I am a Chemical Engineer with an interest in the analysis of data and how it can
 ## Roadmap
 
 - In this repositorie you will find an Excel document with the final dashboard and the database used to create it.
+- There's also an image of the created dashboard in case the observer would rather download that.
