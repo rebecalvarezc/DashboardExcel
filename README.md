@@ -8,7 +8,7 @@ This project includes the use of dynamic tables, Macros, VBA programming for the
 Hi, I'm Rebeca Alvarez! 👋 I made this Dashboard following the Udemy course made by David Asurmendi.
 
 ### 🚀 About Me
-I am a Chemical Engineer with an interest in the analisys of data and how it can improve the way the industry works!
+I am a Chemical Engineer with an interest in the analysis of data and how it can improve the way the industry works!
 
 ## Roadmap
 
