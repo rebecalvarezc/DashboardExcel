@@ -13,5 +13,4 @@ I am a Chemical Engineer with an interest in the analysis of data and how it can
 
 - In this repository you will find an Excel document with the final dashboard and the database used to create it.
 
-
-![](../../Pictures/Tabla Dinámica.jpg)
+![](Tabla%20Dinámica.jpg)
